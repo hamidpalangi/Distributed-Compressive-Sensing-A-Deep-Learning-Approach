@@ -31,6 +31,9 @@
 
 %% Contact: Hamid Palangi, Email: hamidp@ece.ubc.ca
 
+mkdir('Results') % to save results of experiment
+mkdir('Trained_Network') % to save the trained models
+
 close all;clear all;clc;
 rand('state', 1);
 randn('state', 2);
