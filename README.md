@@ -1,6 +1,6 @@
 # Distributed Compressive Sensing: A Deep Learning Approach
 This repository includes  all necessary programs to implement the LSTM-CS method and generate Fig.4 of the following
-paper. To refer please use the following:
+[paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/02/LSTM_CS_TSP.pdf). To refer please use the following:
 
 ```
 @ARTICLE{hp_LSTM_CS, 
